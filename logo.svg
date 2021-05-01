@@ -1,0 +1,15 @@
+<svg id="385c412cd70" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" 
+viewBox="0 0 70 56">
+<title>supershields</title>
+<linearGradient id="a" x2="0" y2="100%">
+        <stop offset="0" stop-color="#f44" />
+        <stop offset="1" stop-color="#c22" />
+</linearGradient>
+<polyline transform="translate(0 1.5)" points="15,5 55,5 65,15 35,50 5,15 15,5 16,5z" stroke="#000" stroke-linejoin="round" stroke-width="9" stroke-opacity="0.7" fill="none" />
+<polyline points="15,5 55,5 65,15 35,50 5,15 15,5 16,5z" stroke="#ff5" stroke-linejoin="round" stroke-width="9" fill="none" />
+<polyline points="15,5 55,5 65,15 35,50 5,15 15,5 16,5z" stroke="url(#a)" stroke-linejoin="round" stroke-width="8" fill="none" />
+<g text-anchor="middle" font-family="Helvetica Neue,Helvetica,Arial,sans-serif" text-rendering="geometricPrecision" font-size="54" font-weight="700">
+    <text aria-hidden="true" x="49.5%" y="79%" opacity="0.7">S</text>
+	<text x="49.5%" y="76%" fill="url(#a)" stroke="#ff5" stroke-width="0.5">S</text>
+</g>
+</svg>
