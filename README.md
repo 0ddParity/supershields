@@ -6,4 +6,4 @@ Supercharged SVG status badges/shields
 
 
 
-- [Programming documentation](https://github.com/0ddParity/supershields/wiki)
+- [Supershields documentation](https://github.com/0ddParity/supershields/wiki)
