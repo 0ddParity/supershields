@@ -3,3 +3,7 @@
 <p align="center">
 Supercharged SVG status badges/shields
 </p>
+
+
+
+- [Programming documentation](https://github.com/0ddParity/supershields/wiki)
